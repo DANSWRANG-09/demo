@@ -8,7 +8,7 @@ This project demonstrates practical **Data Analyst skills** including data prepa
 
 ## 📌 Dashboard Preview
 
-![Sales Performance Analytics Dashboard](./sales_dashboard_preview.svg)
+![Sales Performance Analytics Dashboard](https://github.com/DANSWRANG-09/demo/blob/main/sales_dashboard_preview.png)
 
 > The dashboard provides an interactive view of sales and profitability performance across products, categories, regions, and customer segments.
 
